@@ -32,6 +32,10 @@ Ejemplo:
 ### 🧪 How to test it?
 Instrucciones claras para validarlo en entorno de pruebas.
 
+Workspace:
+
+[🔗 filtercustom](https://filtercustom--pilatos21.myvtex.com/hombre)
+
 - Entrar a: https://menulogo--pilatos21.myvtex.com/agua-bendita
 - Navegar al menú de marcas en vista mobile
 - Verificar que las imágenes estén visibles
