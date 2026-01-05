@@ -1,0 +1,11 @@
+{
+  "name": "beauty-corner-theme",
+  "private": true,
+  "scripts": {
+    "dev": "shopify theme dev -e beauty-dev",
+    "pull": "shopify theme pull -e beauty-dev",
+    "push:dev": "shopify theme push -e beauty-dev --only-changed",
+    "push:prod": "shopify theme push -e beauty-prod --only-changed",
+    "check": "shopify theme check"
+  }
+}

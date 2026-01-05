@@ -1,0 +1,11 @@
+# Don't upload these to Shopify theme
+node_modules/
+dist/
+*.map
+*.lock
+README.md
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+scripts/
+test/

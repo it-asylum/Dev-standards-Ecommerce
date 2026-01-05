@@ -1,0 +1,12 @@
+# Configura entornos para no repetir --store/--theme en cada comando
+[environments.default]
+store = "the-beauty-corner-col"
+theme = "181789032738" # DEV por ahora (ajústalo si corresponde)
+
+[environments.beauty-dev]
+store = "the-beauty-corner-col"
+theme = "181789032738" # ID del tema que ya descargaste
+
+[environments.beauty-prod]
+store = "the-beauty-corner-col"
+theme = "REEMPLAZA_CON_ID_PROD"  # pon aquí el ID del tema publicado cuando lo tengas
