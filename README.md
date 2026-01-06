@@ -1,6 +1,6 @@
 # Dev Standards – Rubén Suárez
 
-Este repositorio contiene una colección de plantillas y estándares para estandarizar el desarrollo frontend en proyectos eCommerce, incluyendo prácticas para VTEX y más.
+Este repositorio contiene una colección de plantillas y estándares para estandarizar el desarrollo frontend en proyectos eCommerce, incluyendo prácticas para VTEX, Shopify, Woocomerce y más.
 
 ## 📄 Plantillas disponibles
 
